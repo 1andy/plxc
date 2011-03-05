@@ -4,12 +4,6 @@
     padding: 4px 10px 5px;
     color: #fff;
     font-size: 12px;
-    border-bottom: solid 1px #85b873;
-    -moz-box-shadow: 0 0 3px #2c581c;
-    -webkit-box-shadow: 0 0 3px #2c581c;
-    box-shadow: 0 0 3px #2c581c;
-    position: relative;
-    z-index: 1;
 }
 
 #head a

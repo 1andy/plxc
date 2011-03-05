@@ -50,13 +50,13 @@ a:active
 #content
 {
     position: relative;
-    z-index: 1;
+    z-index: 2;
     background: #fff;
     padding: 0 10px 60px;
     -moz-border-radius: 0 0 2px 2px;
     -webkit-border-radius: 0 0 2px 2px;
     border-radius: 0 0 2px 2px;
-    -moz-box-shadow: 0 3px 8px rgba(0,0,0,0.3);
-    -webkit-box-shadow: 0 3px 8px rgba(0,0,0,0.3);
-    box-shadow: 0 3px 8px rgba(0,0,0,0.3);
+    -moz-box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    -webkit-box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
 }
