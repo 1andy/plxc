@@ -1,0 +1,20 @@
+﻿#head
+{
+    background: #000;
+    padding: 4px 10px 5px;
+    color: #fff;
+    font-size: 12px;
+    border-bottom: solid 1px #85b873;
+    -moz-box-shadow: 0 0 3px #2c581c;
+    -webkit-box-shadow: 0 0 3px #2c581c;
+    box-shadow: 0 0 3px #2c581c;
+}
+
+#head a
+{
+    color: #D1EEFF;
+}
+#head a:hover
+{
+    color: #fff;
+}

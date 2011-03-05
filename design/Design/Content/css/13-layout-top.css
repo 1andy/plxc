@@ -1,0 +1,86 @@
+﻿#top
+{
+    background: #a4d05c;
+    padding: 0 20px;
+}
+/* Nav */
+#nav
+{
+    margin-left: 0;
+}
+#nav a
+{
+    display: block;
+    float: left;
+    background: #619c00;
+    color: #FFF;
+    _font-family: Arial, Sans-Serif;
+    _font-weight: bold;
+    font-size: 13.5px;
+    text-decoration: none;
+    padding: 3px 16px 7px;
+    margin-right: 6px;
+    -moz-border-radius: 2px 2px 0 0;
+    -webkit-border-top-left-radius: 2px;
+    -webkit-border-top-right-radius: 2px;
+    border-radius: 2px 2px 0 0;
+    position: relative;
+    top: 3px;
+    z-index: 1;
+}
+
+
+#nav a:hover
+{
+    color: #fff;
+    background: #436c00;
+    -moz-box-shadow: #92be82 0 0 3px;
+    -webkit-box-shadow: #92be82 0 0 3px;
+    box-shadow: #92be82 0 0 3px;
+    outline-style: none;
+}
+#nav a:active
+{
+    _background: #174a03;
+}
+
+#nav a.active
+{
+    background: #eee url('img/active-tab.png') repeat-x;
+    color: #000;
+    font-weight: bold;
+    _cursor: default;
+    z-index: 3;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+#nav a.active:first-child
+{
+    -moz-box-shadow: #6b9e59 -1px -1px 1px;
+    -webkit-box-shadow: #6b9e59 -1px -1px 1px;
+    box-shadow: #6b9e59 -1px -1px 1px;
+}
+
+#nav a.separate
+{
+    margin-left: 50px;
+}
+
+#subnav{
+    margin: 0px -10px 20px;
+    padding: 2px 15px;
+    background: #eee;
+    -moz-border-radius-topright: 3px;
+    -webkit-border-top-right-radius: 3px;
+    border-top-right-radius: 3px;
+    border-radius-topright: 3px;
+}
+#subnav input{
+    margin: 0;
+    _display: none;
+}
+#subnav{
+    line-height: 31px;
+}
