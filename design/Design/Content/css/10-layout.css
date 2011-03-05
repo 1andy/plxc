@@ -30,7 +30,7 @@
 
 #green-top
 {
-    background: #a4d05c url(top.png) repeat-x;
+    background: #a4d05c url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABZCAMAAACJ4sOeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAGlQTFRFrNRsq9NqptFjrdVuq9RrpdBiqdJopNBgia9crNJuoMdpqtNoqNFlr9VwrtVurdRsrdRto9BclcGFr9ZwrNRrpdBgp9FlqNJmqtNprtVvp9FkqdJnptBipdBhpNBfo89dpM9dpM9epNBcHO4azgAAAJZJREFUeNrs0MUNAwEMAEGHmZmh/yLzv/9E8slTwD42tkyMmZgyMWFix8j0gokLkzS9ZKLHyPSaiRUTOe0Zme4z0WFk+swkTc+YGDJxY5KmT0zS9JyJIyPTVyZpusvI9J1Jmh4w8WAq3UwfGJkeMfFkKv3H9IepdDvSb6bSzfSLSZqu1430l5HpDZN0SKUrXen2p38CDADqjN6JSRGfpgAAAABJRU5ErkJggg==) repeat-x;
     border-bottom: solid 1px #a4ca61;
     -moz-box-shadow: 0 1px 0 0 #fff;
     -webkit-box-shadow: 0 1px 0 0 #fff;
