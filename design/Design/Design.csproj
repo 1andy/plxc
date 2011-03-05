@@ -67,7 +67,7 @@
     <Content Include="Content\css\01-reset.css" />
     <Content Include="Content\css\02-tools.css" />
     <Content Include="Content\css\10-layout.css" />
-    <Content Include="Content\css\12-layout-head.css" />
+    <Content Include="Content\css\05-common.css" />
     <Content Include="Content\css\13-layout-green-top.css" />
     <Content Include="Content\css\active-tab.png" />
     <Content Include="Content\css\top.png" />
