@@ -42,24 +42,15 @@ a:active
 }
 #footer
 {
-    margin: 12px 10px;
+    padding: 10px 0 30px;
     font-size: 10px;
 }
-#footer-logo
-{
-    display: block;
-}
-#footer-by
-{
-    margin: 8px 0 0 4px;
-    font-family: "Lucida Grande" , Arial, Sans-Serif;
-}
-
 
 /* Content */
 #content
 {
-    clear:both;
+    position: relative;
+    z-index: 1;
     background: #fff;
     padding: 0 10px 60px;
     -moz-border-radius: 0 0 2px 2px;
