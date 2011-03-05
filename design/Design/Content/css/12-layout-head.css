@@ -8,6 +8,8 @@
     -moz-box-shadow: 0 0 3px #2c581c;
     -webkit-box-shadow: 0 0 3px #2c581c;
     box-shadow: 0 0 3px #2c581c;
+    position: relative;
+    z-index: 1;
 }
 
 #head a
