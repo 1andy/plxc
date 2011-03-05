@@ -55,7 +55,7 @@
 {
     float: left;
     position: relative;
-    top: 2px;
+    top: 3px;
     margin-right: 6px;
 }
 
@@ -86,9 +86,9 @@
 
 #nav li.active
 {
-    -moz-box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    -webkit-box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0 5px 8px rgba(0,0,0,0.2);
+    -webkit-box-shadow: 0 5px 8px rgba(0,0,0,0.2);
+    box-shadow: 0 5px 8px rgba(0,0,0,0.2);
 }
 
 #nav li.active a
@@ -145,9 +145,9 @@
     z-index: 2;
     background: #fff;
     padding: 0 10px 60px;
-    -moz-box-shadow: 0 2px 8px rgba(0,0,0,0.3);
-    -webkit-box-shadow: 0 2px 8px rgba(0,0,0,0.3);
-    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    -moz-box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    -webkit-box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
     border: solid 1px #ccc;
     border-top: none;
     margin: 0 -1px;
