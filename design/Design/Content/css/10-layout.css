@@ -124,6 +124,13 @@ a#title-shadow
     background: #eee;
     line-height: 3em;
 }
+
+#subnav .delim
+{
+    color: #999;
+    padding: 0 6px;
+}
+
 #subnav input
 {
     margin: 0;

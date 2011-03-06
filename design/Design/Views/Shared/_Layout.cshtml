@@ -26,7 +26,7 @@
             </h1>
         </div>
         <ul id="nav" class="container-inner clearfix">
-            <li 1class="active"><a href="javascript:;">
+            <li><a href="javascript:void(0)">
                 <img src="@Url.Content("~/Content/home.png")"
                     style="position: relative; top: 2px; border: none; height: 16px; width: 16px;" /></a></li>
             @*<li class="active"><a href="javascript:;">
@@ -37,16 +37,17 @@
             <li class="active"><a href="javascript:void(0)">Products</a></li>
             <li><a href="javascript:void(0)">Content</a></li>
             <li><a href="javascript:void(0)">Marketing</a></li>
-            <li class="separate"><a href="javascript:void(0)">Settings</a></li>
+            <li class="separate"><a href="javascript:void(0)" style="background-color: #8fa271">Settings</a></li>
+            <li><a href="javascript:void(0)" style="background-color: #8fa271">Maintenance</a></li>
         </ul>
     </div>
     <div class="container-inner">
         <div id="content">
             <div id="subnav">
-                <a href="#">Add new product</a> &nbsp;|&nbsp; <b>Search for</b>
+                <a href="#">Add new product</a> <span class="delim">|</span> <b>Search for</b>
                 <input type="text" />
                 <input type="button" value="Search" />
-                &nbsp;|&nbsp; <a href="#">Advanced search</a> &nbsp;|&nbsp;
+                <span class="delim">|</span> <a href="#">Advanced search</a> <span class="delim">|</span>
                 See also <a href="#">Manage Categories and Vendors</a>
             </div>
             @*<div id="subnav">
