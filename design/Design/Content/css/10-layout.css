@@ -41,11 +41,12 @@
 #title
 {
     padding: 9px 0 10px;
+    text-shadow: 0 1px 1px #608c03;
 }
 #title a
 {
     color: #fff;
-    text-shadow: 0 1px 1px #608c03;
+    
     text-decoration: none;
 }
 
