@@ -84,7 +84,11 @@ a#title-shadow
     border-radius: 2px 2px 0 0;
 }
 
-#nav a.minor
+#nav li.minor 
+{
+    float: right;
+}
+#nav .minor a
 {
     background: #73a91b;
 }
