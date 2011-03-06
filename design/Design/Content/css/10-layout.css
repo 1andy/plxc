@@ -1,6 +1,6 @@
 ﻿*
 {
-    font-family: "Segoe UI" , Arial, sans-serif;
+    font-family: "Segoe UI", Arial, sans-serif;
 }
 
 .container-inner
@@ -75,10 +75,9 @@ a#title-shadow
     display: block;
     background: #619c00;
     color: #fff;
-    font-size: 1em;
-    line-height: 2.1em;
+    line-height: 1.95em;
     text-decoration: none;
-    padding: 0 16px 1px;
+    padding: 1px 16px 2px;
     -moz-border-radius: 2px 2px 0 0;
     -webkit-border-radius: 2px 2px 0 0;
     border-radius: 2px 2px 0 0;
