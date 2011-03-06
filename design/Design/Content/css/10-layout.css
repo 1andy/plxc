@@ -78,7 +78,7 @@ a#title-shadow
     font-size: 1em;
     line-height: 2.1em;
     text-decoration: none;
-    padding: 0 16px;
+    padding: 0 16px 1px;
     -moz-border-radius: 2px 2px 0 0;
     -webkit-border-radius: 2px 2px 0 0;
     border-radius: 2px 2px 0 0;
