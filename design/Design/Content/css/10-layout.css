@@ -1,6 +1,6 @@
 ﻿*
 {
-    font-family: "Segoe UI", Arial, sans-serif;
+    font-family: "Segoe UI" , Arial, sans-serif;
 }
 
 .container-inner
@@ -42,12 +42,12 @@
 #title
 {
     padding: 9px 0 10px;
-    position:relative;
+    position: relative;
     text-shadow: 0 1px 1px #608c03;
 }
 #title a
 {
-    position:relative;
+    position: relative;
     color: #fff;
     text-decoration: none;
 }
@@ -84,6 +84,11 @@ a#title-shadow
     border-radius: 2px 2px 0 0;
 }
 
+#nav a.minor
+{
+    background: #73a91b;
+}
+
 #nav li:hover
 {
     -moz-box-shadow: #92be82 0 0 3px;
@@ -116,6 +121,7 @@ a#title-shadow
 {
     margin-left: 50px;
 }
+
 
 #subnav
 {
