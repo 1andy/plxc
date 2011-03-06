@@ -16,6 +16,12 @@
     <div id="green-top">
         <div class="container-inner">
             <h1 id="title">
+                <script>
+                    // write shadow if text-shadow not supported by the browser
+                    if ($("<div/>")[0].style.textShadow !== '') {
+                        document.write("<a href='#' id='title-shadow'>Japa Stuff</a>")
+                    }
+                </script>
                 <a href="#">Japa Stuff</a>
             </h1>
         </div>
