@@ -1,6 +1,6 @@
 ﻿*
 {
-    font-family: "Segoe UI" , "Microsoft Sans Serif" , Geneva, Arial, sans-serif;
+    font-family: "Segoe UI", Arial, sans-serif;
 }
 
 .container-inner
@@ -66,7 +66,7 @@ a#title-shadow
 {
     float: left;
     position: relative;
-    top: 3px;
+    top: 1px;
     margin-right: 6px;
 }
 
@@ -76,8 +76,9 @@ a#title-shadow
     background: #619c00;
     color: #fff;
     font-size: 1em;
+    line-height: 2.1em;
     text-decoration: none;
-    padding: 4px 16px 6px;
+    padding: 0 16px;
     -moz-border-radius: 2px 2px 0 0;
     -webkit-border-radius: 2px 2px 0 0;
     border-radius: 2px 2px 0 0;
