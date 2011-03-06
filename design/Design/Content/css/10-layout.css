@@ -6,7 +6,8 @@
 .container-inner
 {
     margin: 0 auto;
-    max-width: 1024px;
+    min-width: 880px;
+    max-width: 1060px;
     padding: 0 20px;
 }
 
@@ -120,17 +121,12 @@ a#title-shadow
     margin: 0px -10px 20px;
     padding: 2px 15px;
     background: #eee;
+    line-height: 3em;
 }
 #subnav input
 {
     margin: 0;
 }
-#subnav
-{
-    line-height: 31px;
-}
-
-
 
 /* Footer */
 #footer a, #footer

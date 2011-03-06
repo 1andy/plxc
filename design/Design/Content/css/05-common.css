@@ -21,3 +21,14 @@ a:active
 {
     color: #c00;
 }
+
+input[type=text]
+{
+    _height: 1.6em;
+}
+
+input[type=button]
+{
+    font-weight: bold;
+    1line-height: normal !important;
+}
