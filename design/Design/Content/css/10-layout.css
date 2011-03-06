@@ -41,12 +41,12 @@
 #title
 {
     padding: 9px 0 10px;
-    position: relative;
+    position:relative;
     text-shadow: 0 1px 1px #608c03;
 }
 #title a
 {
-    position: relative;
+    position:relative;
     color: #fff;
     text-decoration: none;
 }
@@ -54,12 +54,6 @@
 /* For browsers that do not support text-shadows */
 a#title-shadow
 {
-    display: none;
-}
-
-.ie-all a#title-shadow
-{
-    display: block;
     position: absolute;
     color: #619c00;
     margin-top: 1px;
@@ -135,6 +129,7 @@ a#title-shadow
 {
     line-height: 31px;
 }
+
 
 
 /* Footer */
